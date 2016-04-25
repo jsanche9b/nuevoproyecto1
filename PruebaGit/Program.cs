@@ -11,7 +11,7 @@ namespace PruebaGit
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Pruebas con Git desde Visual Studio.");
+            Console.WriteLine("Pruebas con Git desde Visual Studio .");
 
             Console.ReadKey();
         }
